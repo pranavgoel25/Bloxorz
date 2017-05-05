@@ -1,0 +1,22 @@
+Controls-
+W- move up
+S- move down
+A- move left
+D- move right
+UP KEY- jump up
+DOWN KEY- jump down
+LEFT KEY- jump left
+RIGHT KEY- jump right
+T- Top view
+F- Follow view
+G- Block view
+Space Bar- Helicopter View
+
+
+Tile Color Reference
+Crimson- Safe tiles
+Yellow- Fragile tile
+Dark Blue- Bridge switch
+Light green- Goal tile
+Light Blue- Bridge tiles
+
